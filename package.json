@@ -1,0 +1,14 @@
+{
+  "name": "organcare-ai",
+  "version": "1.0.0",
+  "description": "Modern AI Medical Platform for Organ Analysis",
+  "scripts": {
+    "dev": "cd frontend && npm run dev",
+    "build": "cd frontend && npm run build",
+    "install": "cd frontend && npm install"
+  },
+  "keywords": ["medical", "ai", "react"],
+  "author": "",
+  "license": "MIT"
+}
+
